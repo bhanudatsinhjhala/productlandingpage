@@ -337,7 +337,7 @@ p{
 	.pricing{
 		grid-template-columns: 400px;
 		justify-content: center;
-		margin-left: 10;
+		margin-left: 10px;
 		margin-right: 0;
 	}
 
